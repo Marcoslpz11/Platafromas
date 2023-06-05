@@ -1,0 +1,3 @@
+# Platafromas
+2d plataform game in progress
+これは2Dプラットフォームゲームで、Godot（GDScript言語）で作成されています。まだ完成していませんが、キャラクターの基本的な機能が備わっています。GDScriptはPythonに非常に似た言語であり、Unityと似たような方法で使用することができます。
